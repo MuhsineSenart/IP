@@ -1,3 +1,2 @@
 Write a sentence. 
 Add a new line
-Another new line.
